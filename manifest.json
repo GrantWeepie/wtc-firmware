@@ -1,10 +1,10 @@
 {
   "firmware": [
     {
-      "label": "EN1 Firmware v1.0.0 (Initial Release)",
-      "version": "1.0.0",
-      "file": "v1.0.0.hex",
-      "url": "https://raw.githubusercontent.com/GrantWeepie/wtc-flasher/main/firmware/v1.0.0.hex",
+      "label": "EN1 Firmware v0.1.0 (Initial Release)",
+      "version": "0.1.0",
+      "file": "wtc_en1_v0.1.0.hex",
+      "url": "https://raw.githubusercontent.com/GrantWeepie/wtc-firmware/main/wtc_en1_v0.1.0.hex",
       "notes": "Initial production release."
     }
   ]
