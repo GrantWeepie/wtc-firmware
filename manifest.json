@@ -3,8 +3,8 @@
     {
       "label": "EN1 Firmware v0.1.0 (Initial Release)",
       "version": "0.1.0",
-      "file": "wtc_en1_v0.1.0.hex",
-      "url": "https://raw.githubusercontent.com/GrantWeepie/wtc-firmware/main/wtc_en1_v0.1.0.hex",
+      "file": "wtc_en1_v0.1.0.bin",
+      "url": "https://raw.githubusercontent.com/GrantWeepie/wtc-firmware/main/wtc_en1_v0.1.0.bin",
       "notes": "Initial production release."
     }
   ]
